@@ -1,0 +1,7 @@
+How to  use the code to setup  env  
+
+ run 
+ curl -sSL https://raw.githubusercontent.com/sukeshc/devOps/master/release/setenv.sh?token=AM9EerL9FDcLb6O8w1L0u45nBp37hR0lks5cl6_rwA%3D%3D | sh
+ 
+ 
+ This  will  isntall Jenkin, sonar , nexus
